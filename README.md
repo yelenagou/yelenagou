@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 **Location:** Glendale, AZ 85308  
 **Email:** [lenags@gmail.com](mailto:lenags@gmail.com)  
-**Phone:** 480-434-3074  
 **GitHub:** [https://github.com/yelenagou](https://github.com/yelenago)  [https://github.com/YelenaGouralnikEngyra](https://github.com/YelenaGouralnikEngyra)
 
 ## Professional Summary
